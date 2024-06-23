@@ -1,6 +1,6 @@
 # Probability
 
-A program that randomly chooses between three different colors for displaying 20 lines of text on the screen. 
+An assembly program that randomly chooses between three different colors for displaying 20 lines of text in the console. 
 
 The probabilities for each color are: white (30%), blue (10%), and green (60%).
 
